@@ -10,11 +10,11 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": [
-                "--image", "images/michele_signora/input.jpg",
-                "--refer", "images/michele_signora/refer.jpg",
-                "--mask", ""
-            ]
+            // "args": [
+            //     "--image", "images/michele_signora/input.jpg",
+            //     "--refer", "images/michele_signora/refer.jpg",
+            //     "--mask", ""
+            // ]
         }
     ]
 }

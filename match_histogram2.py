@@ -208,7 +208,7 @@ def main():
     output_image = match_histograms(image_src, image_ref)
  
     # Mask the matched image
-    if False: # XXX mask_provided:
+    if mask_provided:
         output_masked = mask_image(output_image, image_mask)
  
     # Save the output images
