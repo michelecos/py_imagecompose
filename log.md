@@ -6,4 +6,4 @@ Il plugin per Python di `vscode` lo riconoscerà automaticamente. Io ho creato u
 2. Installare NumPy, con `pip install numpy`
 
 3. Installare OpenCV, nella versione base, che ha il supporto per `imshow` con `cocoa`
-con il comando `pip install opencv-pyhthon-headless`
+con il comando `pip install opencv-python-headless`
